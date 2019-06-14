@@ -1,0 +1,25 @@
+{
+  "name": "react-geom",
+  "description": "This is first trying React with geometry",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Val",
+  "license": "MIT",
+  "dependencies": {
+    "create-react-class": "^15.6.3",
+    "express": "^4.16.4",
+    "react": "^16.8.5",
+    "react-dom": "^16.8.5",
+    "webpack-cli": "^3.3.0"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.4.5",
+    "@babel/preset-env": "^7.4.5",
+    "@babel/preset-react": "^7.0.0",
+    "babel-loader": "^8.0.6",
+    "webpack": "^4.34.0"
+  }
+}
